@@ -18,5 +18,6 @@ npx hardhat test
 ## Выполнил
 
 ФИО: Романцов Николай Сергеевич
+
 MetaMask: 0x74eA8ae2551A398bBF6892CFD659adAE9492F136
 
